@@ -4,6 +4,7 @@ Created on Thu Aug 11 13:41:41 2022
 Version 1.0
 @author: Ricieri
 Modules for statistical use
+To do: Controle de erros
 
 To do:
 """
